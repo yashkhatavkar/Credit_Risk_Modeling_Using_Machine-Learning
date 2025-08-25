@@ -12,3 +12,10 @@ Best model: **XGBoost (AUC ≈ 0.64)**
 ## 📸 Demo  
 <img width="1918" height="847" alt="Screenshot 2025-08-24 214509" src="https://github.com/user-attachments/assets/0a1fcb34-d482-4f38-9c81-a4a934d45dd2" />
 
+## 🚀 Run  
+```bash
+git clone https://github.com/your-username/credit-risk-modeling.git
+cd credit-risk-modeling
+pip install -r requirements.txt
+streamlit run app.py
+
