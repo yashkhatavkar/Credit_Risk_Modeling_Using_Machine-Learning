@@ -14,7 +14,7 @@ Best model: **XGBoost (AUC ≈ 0.64)**
 
 ## 🚀 Run  
 ```bash
-git clone https://github.com/your-username/credit-risk-modeling.git
+git clone https://github.com/yashkhkatavkar/Credit_Risk_Modeling_Using_Machine-Learning.git
 cd credit-risk-modeling
 pip install -r requirements.txt
 streamlit run app.py
